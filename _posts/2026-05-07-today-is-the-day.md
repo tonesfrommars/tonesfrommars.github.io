@@ -5,6 +5,11 @@ description: >
   In the beginning...
 sitemap: false
 hide_last_modified: true
+image:
+  path: /assets/img/blog/andrik-langfield-1920w.jpg
+  srcset:
+    1920w: /assets/img/blog/andrik-langfield-1920w.jpg
+    960w:  /assets/img/blog/andrik-langfield-960w.jpg
 ---
 
 ## Fingers Flying and Thoughts Complying
